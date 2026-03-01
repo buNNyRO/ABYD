@@ -1,5 +1,11 @@
 # ABYD (Absolutely Based Youtube Downloader)
 
+## Project planning notes
+This repository now also contains a dedicated planning document for a modular RAGE:MP Roleplay gamemode beta scope:
+
+- [`docs/ragemp-roleplay-beta-plan.md`](docs/ragemp-roleplay-beta-plan.md)
+- [`ragemp-gamemode/`](ragemp-gamemode/) — scaffold tehnic inițial (server/client/cef) pentru beta RP.
+
 ## Info
 User friendly, fast and reliable youtube to mp3 converter.  
 
