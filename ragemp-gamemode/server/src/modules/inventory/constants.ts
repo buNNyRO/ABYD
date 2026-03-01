@@ -1,0 +1,2 @@
+export const INVENTORY_DEBOUNCE_MS = 5000;
+export const INVENTORY_FORCE_FLUSH_MS = 30000;
